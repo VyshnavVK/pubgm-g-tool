@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PUBGM G-Tool</string>
+
+    <string-array name="quality">
+        <item>Select Quality</item>
+        <item>480p 40fps mid</item>
+        <item>480p 40fps</item>
+        <item>540p 60fps mid</item>
+        <item>540p 60fps</item>
+        <item>720p 60fps mid</item>
+        <item>720p 60fps</item>
+    </string-array>
+</resources>
