@@ -4,7 +4,7 @@ This tool enable you to make your pubg mobile game to run at higer performence t
 
 ## Download
 
-You can download the .apk file from [HERE!](https://raw.githubusercontent.com/VyshnavVK/pubgm-g-tool/DownloadApp/PUBGM%20G-tool%20v1.02.apk)
+You can download the .apk file from [HERE!](https://github.com/downloads/VyshnavVK/pubgm-g-tool/DownloadApp/PUBGM%20G-tool%20v1.02.apk)
 
 ## License
 
