@@ -8,12 +8,14 @@
 <RelativeLayout
     android:layout_width="wrap_content"
     android:layout_centerInParent="true"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    tools:ignore="UselessParent">
     <Spinner
         android:layout_width="match_parent"
         android:layout_marginEnd="70dp"
         android:layout_marginStart="70dp"
-        android:paddingLeft="40dp"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
         android:layout_height="50dp"
         android:layout_marginBottom="50dp"
         android:background="@drawable/button"
@@ -27,13 +29,14 @@
        android:id="@+id/edit"
        android:layout_marginEnd="70dp"
        android:layout_marginStart="70dp"
-       android:text="Apply Settings"
+       android:text="@string/apply_settings"
        android:textAllCaps="false"
        android:background="@drawable/button"
        android:textColor="#fff"
-       android:drawableRight="@drawable/ic_edit_black_24dp"
-       android:paddingRight="20dp"
-       android:textSize="18dp"
+       android:drawableEnd="@drawable/ic_edit_black_24dp"
+       android:paddingEnd="20dp"
+       android:paddingStart="20dp"
+       android:textSize="18sp"
        />
     <Button
         android:layout_marginTop="50dp"
@@ -43,13 +46,14 @@
         android:layout_below="@id/edit"
         android:layout_marginEnd="70dp"
         android:layout_marginStart="70dp"
-        android:text="Open Game"
+        android:text="@string/open_game"
         android:background="@drawable/button"
         android:textColor="#fff"
-        android:paddingRight="20dp"
-        android:drawableRight="@drawable/ic_extension"
+        android:paddingEnd="20dp"
+        android:paddingStart="20dp"
+        android:drawableEnd="@drawable/ic_extension"
         android:textAllCaps="false"
-        android:textSize="18dp"
+        android:textSize="18sp"
         />
 </RelativeLayout>
 </RelativeLayout>

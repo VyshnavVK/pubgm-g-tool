@@ -1,5 +1,32 @@
 <resources>
     <string name="app_name">PUBGM G-Tool</string>
+    <string name="file_path">Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini</string>
+    <string name="file_error_message">An error occurred while executing the program ERROR_CODE :FNFE</string>
+    <string name="error">Error !</string>
+    <string name="pubg_package_name">com.tencent.ig</string>
+    <string name="failed_to_copy_asset_file">\"Failed to copy asset file: \"</string>
+    <string name="success">Success</string>
+    <string name="process_compeleted">Process completed !</string>
+    <string name="settings">settings</string>
+    <string name="selection">selection</string>
+    <string name="select_quality">Select Quality</string>
+    <string name="select_a_qality_first">Select a quality first !</string>
+    <string name="warning">Warning !</string>
+    <string name="q_480_40fps_mid">480p 40fps mid</string>
+    <string name="mid_480p">Quality/Quality480pMid/UserCustom.ini</string>
+    <string name="q_480p">Quality/Quality480p/UserCustom.ini</string>
+    <string name="mid_540p">Quality/Quality540pMid/UserCustom.ini</string>
+    <string name="q_540p">Quality/Quality540p/UserCustom.ini</string>
+    <string name="mid_720p">Quality/Quality720pMid/UserCustom.ini</string>
+    <string name="q_720p">Quality/Quality720p/UserCustom.ini</string>
+    <string name="pubg_not_installed">Didn\'t Find PUBG Mobile in your phone</string>
+    <string name="about">This app is developed by Vyshnav.K and \n this app is for educational purpose only! use it at your own risk. \n  You can contact me and ask questions at \n Email : vyshnavvyshu20@gmail.com \n thanks! for using my app</string>
+    <string name="about_text">About</string>
+    <string name="ok">ok</string>
+    <string name="apply_settings">Apply Settings</string>
+    <string name="open_game">Open Game</string>
+    <string name="malayalam">Malayalam</string>
+    <string name="english">English</string>
 
     <string-array name="quality">
         <item>Select Quality</item>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">PUBGM G-ഉപകരണം</string>
+    <string name="file_path">Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Config/Android/UserCustom.ini</string>
+    <string name="file_error_message"> പ്രോഗ്രാം എക്സിക്യൂട്ട് ചെയ്യുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു ERROR_CODE: FNFE</string>
+    <string name="error">പിശക് സംഭവിച്ചു!</string>
+    <string name="pubg_package_name">com.tencent.ig</string>
+    <string name="failed_to_copy_asset_file">Failed to copy asset file: </string>
+    <string name="success">വിജയിച്ചു</string>
+    <string name="process_compeleted">പ്രക്രിയ പൂർത്തിയായി!</string>
+    <string name="settings">settings</string>
+    <string name="selection">selection</string>
+    <string name="select_quality">ഗുണമേന്മ തിരഞ്ഞെടുക്കുക</string>
+    <string name="select_a_qality_first">ആദ്യം ഒരു ഗുണമേന്മ തിരഞ്ഞെടുക്കുക!</string>
+    <string name="warning">മുന്നറിയിപ്പ്!</string>
+    <string name="q_480_40fps_mid">480p 40fps mid</string>
+    <string name="mid_480p">Quality/Quality480pMid/UserCustom.ini</string>
+    <string name="q_480p">Quality/Quality480p/UserCustom.ini</string>
+    <string name="mid_540p">Quality/Quality540pMid/UserCustom.ini</string>
+    <string name="q_540p">Quality/Quality540p/UserCustom.ini</string>
+    <string name="mid_720p">Quality/Quality720pMid/UserCustom.ini</string>
+    <string name="q_720p">Quality/Quality720p/UserCustom.ini</string>
+    <string name="pubg_not_installed">നിങ്ങളുടെ ഫോണിൽ PUBG മൊബൈൽ കണ്ടെത്തിയില്ല</string>
+    <string name="about">ഈ അപ്ലിക്കേഷൻ വികസിപ്പിച്ചെടുത്തത് Vyshnav.k ആണ്, ഈ അപ്ലിക്കേഷൻ വിദ്യാഭ്യാസ ആവശ്യങ്ങൾക്ക് മാത്രമുള്ളതാണ് ! \n നിങ്ങളുടെ സ്വന്തം ഉത്തരവാദിത്വത്തിൽ ഇത് ഉപയോഗിക്കുക. \n vyshnavvyshu20@gmail.com ഈ ഇമെയിൽ ഐഡി ഉപയോഗിച്ച് നിങ്ങൾക്ക് എന്നെ ബന്ധപ്പെടാനും ചോദ്യങ്ങൾ ചോദിക്കാനും കഴിയും\n  നന്ദി! എന്റെ അപ്ലിക്കേഷൻ ഉപയോഗിക്കുന്നതിന്.</string>
+    <string name="about_text">എന്നെ പറ്റി</string>
+    <string name="ok">ശരി</string>
+    <string name="apply_settings">ക്രമീകരണങ്ങൾ പ്രയോഗിക്കുക</string>
+    <string name="open_game">ഗെയിം തുറക്കുക</string>
+    <string name="malayalam">മലയാളം</string>
+    <string name="english">English</string>
+
+    <string-array name="quality">
+        <item>ഗുണമേന്മ തിരഞ്ഞെടുക്കുക</item>
+        <item>480p 40fps mid</item>
+        <item>480p 40fps</item>
+        <item>540p 60fps mid</item>
+        <item>540p 60fps</item>
+        <item>720p 60fps mid</item>
+        <item>720p 60fps</item>
+    </string-array>
+</resources>
