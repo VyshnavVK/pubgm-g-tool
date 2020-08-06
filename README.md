@@ -2,13 +2,10 @@
 
 This tool enable you to make your pubg mobile game to run at higer performence then the normal level that your device is capable of
 
-## Download
-
-You can download the .apk file from [HERE!](https://#)
 
 ## License
 
-Copyright 2020 VyshnavVk Inc
+Copyright 2020   VyshnavVk, Inc
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
